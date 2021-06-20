@@ -19,3 +19,5 @@ node index.js
 
 # Si vous avez besoin d'aide :
 [discord.gg/devfr](https://discord.gg/devfr)
+
+PS: si vous avez des idées de code a leak venez sur devfr :/
